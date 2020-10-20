@@ -105,15 +105,13 @@ function initBotConversation() {
                             jsonWebToken: jsonWebToken,
 
                             // Use the following activity to proactively invoke a bot scenario
-                            /*
+                            
                             triggeredScenario: {
-                                trigger: "{scenario_id}",
+                                trigger: "covid19_triage",
                                 args: {
-                                    myVar1: "{custom_arg_1}",
-                                    myVar2: "{custom_arg_2}"
                                 }
                             }
-                            */
+                            
                         }
                     }
                 }
