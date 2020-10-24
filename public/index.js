@@ -90,7 +90,7 @@ function initBotConversation() {
         bubbleBackground: '#FFF0F0',
         bubbleFromUserBackground: '#CFEEFA',
         userAvatarBackgroundColor: '#CFEEFA',
-        accent: '#FE828C',
+        accent: '#DE98B2',
         backgroundColor: '#FFFFFF'
     };
 
