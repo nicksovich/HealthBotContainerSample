@@ -90,7 +90,7 @@ function initBotConversation() {
         bubbleBackground: '#FFF0F0',
         bubbleFromUserBackground: '#CFEEFA',
         userAvatarBackgroundColor: '#CFEEFA',
-        backgroundColor: '#FFFFFF'
+        backgroundColor: '#F8F8F8'
     };
 
     const store = window.WebChat.createStore({}, function(store) { return function(next) { return function(action) {
