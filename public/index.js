@@ -88,7 +88,7 @@ function initBotConversation() {
         botAvatarInitials: 'Bot',
         userAvatarInitials: 'You',
         bubbleBackground: '#FFF0F0',
-        bubbleFromUserBackground: '#B5FFFF',
+        bubbleFromUserBackground: '#CFEEFA',
         backgroundColor: '#FFFFFF'
     };
 
